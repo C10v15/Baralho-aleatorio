@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+}
+.imagem-carta{
+    margin-top: 20px;
+}
+.btn-carta{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    
+}
